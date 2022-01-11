@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDD75EFA213EdE2915c88055e23334FCCe4A83Ec8",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdd75efa213ede2915c88055e23334fcce4a83ec8",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoCoinBots",
+  "SYMBOL": "CCB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptocoinbots",
+  "SHOW_BACKGROUND": true
+}
